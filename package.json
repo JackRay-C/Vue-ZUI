@@ -1,0 +1,24 @@
+{
+  "name": "vue-zui",
+  "version": "1.0.0",
+  "description": "A Component Library Or A  UI Library Framework fro Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackRay-C/Vue-ZUI.git"
+  },
+  "keywords": [
+    "vue.js",
+    "zui",
+    "components"
+  ],
+  "author": "renhj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackRay-C/Vue-ZUI/issues"
+  },
+  "homepage": "https://github.com/JackRay-C/Vue-ZUI#readme"
+}
